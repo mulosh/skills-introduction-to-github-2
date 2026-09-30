@@ -2,6 +2,8 @@
 
 _Welcome to "Introduction to GitHub"! :wave:_
 
+This course is designed for complete beginners, so we'll learn each core concept step by step from scratch.
+
 **What is GitHub?**: GitHub is a collaboration platform that uses _[Git](https://docs.github.com/get-started/quickstart/github-glossary#git)_ for versioning.
 GitHub is a popular place to share and contribute to [open-source](https://docs.github.com/get-started/quickstart/github-glossary#open-source) software.
 
